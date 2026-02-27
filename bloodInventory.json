@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"69a1e1241fc5a33495de05cd"},"inventoryId":1,"hospitalId":1,"bloodGroupId":7,"unitsAvailable":10},{"_id":{"$oid":"69a1e1241fc5a33495de05ce"},"inventoryId":2,"hospitalId":1,"bloodGroupId":1,"unitsAvailable":6},{"_id":{"$oid":"69a1e1241fc5a33495de05cf"},"inventoryId":3,"hospitalId":1,"bloodGroupId":3,"unitsAvailable":4}]
